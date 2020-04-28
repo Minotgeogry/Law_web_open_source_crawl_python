@@ -1,6 +1,5 @@
 import requests  #数据抓取模块
 from parsel import Selector  #标签解析模块
-import pymysql  #数据库模块
 import html  #网页解析模块
 import re  #正则
 import json  #jason模块
